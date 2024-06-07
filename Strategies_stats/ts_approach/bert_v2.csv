@@ -1,0 +1,2 @@
+,title,precision,recall,weekly mean,weekly std,yearly mean,yearly std,SR,alpha,t(alpha),beta,t(beta),F-statistic,R-squared
+0,FinBert,59.83%,3.83%,1.14%,5.75%,29.04%,37.89%,0.66,0.25%,1.84,0.53,5.54,30.67,8.48%

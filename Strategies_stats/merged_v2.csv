@@ -1,0 +1,2 @@
+,title,precision,recall,weekly mean,weekly std,yearly mean,yearly std,SR,alpha,t(alpha),beta,t(beta),F-statistic,R-squared
+0,Catboost + Attention,57.05%,27.36%,0.80%,6.54%,40.70%,65.73%,0.56,0.16%,2.00,-0.47,-7.84,61.53,4.56%

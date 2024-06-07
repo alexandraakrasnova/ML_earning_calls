@@ -1,0 +1,2 @@
+,title,precision,recall,weekly mean,weekly std,yearly mean,yearly std,SR,alpha,t(alpha),beta,t(beta),F-statistic,R-squared
+0,Catboost + XGBoost,58.60%,48.25%,0.99%,4.37%,33.13%,63.95%,0.46,0.18%,1.72,-0.26,-3.58,12.79,3.67%

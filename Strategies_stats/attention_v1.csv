@@ -1,0 +1,2 @@
+,title,precision,recall,weekly mean,weekly std,yearly mean,yearly std,SR,alpha,t(alpha),beta,t(beta),F-statistic,R-squared
+0,RNN with attention,51.55%,62.46%,0.32%,4.65%,12.58%,31.83%,0.27,0.06%,1.05,-0.33,-7.29,53.13,3.85%

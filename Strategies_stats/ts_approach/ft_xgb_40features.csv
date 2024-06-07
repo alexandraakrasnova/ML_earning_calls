@@ -1,0 +1,2 @@
+,title,precision,weekly mean,weekly std,yearly mean,yearly std,SR,alpha,t(alpha),beta,t(beta),F-statistic,R-squared
+0,XGBoost 20 features,56.63%,1.26%,2.35%,40.12%,55.75%,0.65,0.25%,3.94,-0.03,-0.74,0.55,0.16%

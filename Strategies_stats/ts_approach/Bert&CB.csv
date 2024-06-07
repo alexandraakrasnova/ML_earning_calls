@@ -1,0 +1,2 @@
+,title,precision,recall,weekly mean,weekly std,yearly mean,yearly std,SR,alpha,t(alpha),beta,t(beta),F-statistic,R-squared
+0,FinBert + CatBoost,63.72%,1.93%,1.80%,6.12%,73.03%,129.76%,0.53,0.38%,2.69,0.40,4.01,16.10,4.64%

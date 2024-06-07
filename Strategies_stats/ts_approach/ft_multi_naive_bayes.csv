@@ -1,0 +1,2 @@
+,title,precision,recall,weekly mean,weekly std,yearly mean,yearly std,SR,alpha,t(alpha),beta,t(beta),F-statistic,R-squared
+0,Naive Bayes,49.04%,89.88%,-0.05%,2.84%,-1.82%,8.40%,-0.69,-0.04%,-0.63,-0.40,-8.16,66.61,16.54%

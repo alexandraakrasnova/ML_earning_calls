@@ -1,0 +1,2 @@
+,title,precision,weekly mean,weekly std,yearly mean,yearly std,SR,alpha,t(alpha),beta,t(beta),F-statistic,R-squared
+0,Catboost 100 features,12.11%,0.76%,4.45%,17.77%,15.74%,0.88,0.14%,1.46,0.03,0.39,0.15,0.05%

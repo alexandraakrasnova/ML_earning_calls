@@ -1,0 +1,2 @@
+,title,precision,recall,weekly mean,weekly std,yearly mean,yearly std,SR,alpha,t(alpha),beta,t(beta),F-statistic,R-squared
+0,XGBoost + FinBert,68.81%,2.31%,0.90%,5.62%,38.75%,49.07%,0.71,0.16%,2.35,0.11,2.30,5.29,0.49%

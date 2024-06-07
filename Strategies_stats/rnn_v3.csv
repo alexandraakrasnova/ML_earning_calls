@@ -1,0 +1,2 @@
+,title,precision,recall,weekly mean,weekly std,yearly mean,yearly std,SR,alpha,t(alpha),beta,t(beta),F-statistic,R-squared
+0,RNN 3 classes,53.47%,59.76%,0.23%,5.31%,6.57%,25.35%,0.10,0.04%,0.56,-0.19,-3.67,13.47,1.04%
